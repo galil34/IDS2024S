@@ -1,5 +1,5 @@
-# IDS2024S
-
+#  IDS2024S
+---
 **IDS2024S, Introduction to Data Science, Spring 2024**  
 **Name:** Galilea Silva  
 **School ID:** 1002089946  
@@ -9,8 +9,10 @@
 **Level:** Sophomore  
 **Position Title:** Student  
 **Course Webpage:** [IDS2024S](www.cdslab.org/IDS2024S)  
-**Photo:** ![A Photo of Galilea](IMG_2796.jpeg)   
+**Photo:** ![A Photo of Galilea](IMG_2796.jpeg "A photo of me ໒꒰ྀིっ˕ -｡꒱ྀི১")   
 ### **Description of the project's content**  
+---
+
 This repository contains my homework, quizzes, and virtually every effort that I have made for Data Science. The structure of the project is the following:  
 
 **Homework:**  
