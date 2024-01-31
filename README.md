@@ -22,13 +22,13 @@
 
 This repository contains my homework, quizzes, and virtually every effort that I have made for DATA-1301. The structure of the project is the following:  
 </br>
-- **Homework:**  [⋆⭒˚.⋆Click Here⋆⭒˚.⋆](https://github.com/galil34/IDS2024S/tree/176dd9e76d2c02659e6b1bb600cb579ea1773c3c/hw/1)  
+- [**Homework:**](./hw)  
 This directory contains all my homework submissions, each of which is a folder properly named with homework number, containing the homework submission.
 
-- **Quiz:** [⋆⭒˚.⋆Click Here⋆⭒˚.⋆](https://github.com/galil34/IDS2024S/tree/18c142ddf8702828966776b21bd6b26abb1b1e68/quiz/1)  
+- [**Quiz:**](./quiz)    
 This directory contains all my quiz submissions, each of which is a folder properly named with quiz number, containing the quiz submission.  
 
-- **Exam:**  [⋆⭒˚.⋆Click Here⋆⭒˚.⋆](https://github.com/galil34/IDS2024S/tree/289f621cf1f133283fbbdc67e4fb217c4404cd31/exam/1)  
+- [**Exam:**](./exam)    
 This directory contains all my exam submissions, each of which is a folder properly named with exam name or number, containing the exam submission.  
 </br>
 </br>
