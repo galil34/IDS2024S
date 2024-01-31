@@ -29,7 +29,7 @@ This directory contains all my homework submissions, each of which is a folder p
 - **Quiz:** [⋆⭒˚.⋆Click Here⋆⭒˚.⋆](https://github.com/galil34/IDS2024S/tree/18c142ddf8702828966776b21bd6b26abb1b1e68/quiz/1)  
 This directory contains all my quiz submissions, each of which is a folder properly named with quiz number, containing the quiz submission.  
 
-- **Exam:**  
+- **Exam:**  [⋆⭒˚.⋆Click Here⋆⭒˚.⋆](https://github.com/galil34/IDS2024S/tree/289f621cf1f133283fbbdc67e4fb217c4404cd31/exam/1)  
 This directory contains all my exam submissions, each of which is a folder properly named with exam name or number, containing the exam submission.  
 </br>
 </br>
