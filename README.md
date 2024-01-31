@@ -1,6 +1,6 @@
 #  IDS2024S
 ---
-## <p align="center"> **IDS2024S, Introduction to Data Science, Spring 2024**   
+## <p align="center"> **IDS2024S, Introduction to Data Science, Spring 2024**</p>   
 ---
 **Name:** Galilea Silva  
 **School ID:** 1002089946  
@@ -16,12 +16,11 @@
 </p>    
 
 
-## <p align="center">  **Description of the Project's Contents**
-</p> 
+## <p align="center">  **Description of the Project's Contents**</p> 
 
 ---
 
-This repository contains my homework, quizzes, and virtually every effort that I have made for Data Science. The structure of the project is the following:  
+This repository contains my homework, quizzes, and virtually every effort that I have made for DATA-1301. The structure of the project is the following:  
 </br>
 - **Homework:**  [⋆⭒˚.⋆Click Here⋆⭒˚.⋆](https://github.com/galil34/IDS2024S/tree/176dd9e76d2c02659e6b1bb600cb579ea1773c3c/hw/1)  
 This directory contains all my homework submissions, each of which is a folder properly named with homework number, containing the homework submission.
