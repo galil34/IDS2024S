@@ -26,7 +26,7 @@ This repository contains my homework, quizzes, and virtually every effort that I
 - **Homework:**  
 This directory contains all my homework submissions, each of which is a folder properly named with homework number, containing the homework submission.
 
-- **Quiz:**  
+- **Quiz:** [⋆⭒˚.⋆Click Here⋆⭒˚.⋆](https://github.com/galil34/IDS2024S/tree/18c142ddf8702828966776b21bd6b26abb1b1e68/quiz/1)  
 This directory contains all my quiz submissions, each of which is a folder properly named with quiz number, containing the quiz submission.  
 
 - **Exam:**  
