@@ -30,11 +30,17 @@ This directory contains all my quiz submissions, each of which is a folder prope
 
 - [**Exam:**](./exam)    
 This directory contains all my exam submissions, each of which is a folder properly named with exam name or number, containing the exam submission.  
-</br>
-</br>
-</br>
-For questions and troubleshooting, please contact:  
-
-Galilea Silva     
-gss9946@mavs.uta.edu  
-≽^•⩊•^≼
+</br>  
+</br>  
+</br>   
+For questions and troubleshooting, please contact:     
+</br>    
+</br>   
+   
+Galilea Silva      
+gss9946@mavs.uta.edu   
+Student of Data Science   
+University of Texas at Arlington   
+> I have not failed. I have just found ten thousand ways that won't work   
+> Thomas Edison   
+> ≽^•⩊•^≼     
