@@ -19,8 +19,14 @@
 20.) To create an empty project in the local system you use git init  
 21.) . means take me to the path through the folder, .. means take me to the path directly  
 22.)   
-Last login: Thu Feb  8 13:47:43 on ttys000
-galileasilva@Galileas-MBP ~ % cd
-galileasilva@Galileas-MBP ~ % pwd
-/Users/galileasilva
-galileasilva@Galileas-MBP ~ % 
+Last login: Thu Feb  8 13:47:43 on ttys000  
+galileasilva@Galileas-MBP ~ % cd  
+galileasilva@Galileas-MBP ~ % pwd  
+/Users/galileasilva   
+galileasilva@Galileas-MBP ~ %     
+galileasilva@Galileas-MBP ~ % mkdir dir  
+galileasilva@Galileas-MBP ~ % testdir  
+zsh: command not found: testdir  
+galileasilva@Galileas-MBP ~ % mkdir dir testdir  
+mkdir: dir: File exists  
+galileasilva@Galileas-MBP ~ %   
