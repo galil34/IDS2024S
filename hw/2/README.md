@@ -52,17 +52,43 @@ Python: 1990s**
 **C Simula**  
 
 13. Name a programming language ancestor of MATLAB and a programming language ancestor of Python.  
-**Fortran and C**  
+**Fortran and C**   
 
-14. What are the three common types of errors in computer programs? Provide an example for each category.  
-**Syntax: spelling and punctuation errors**  
-**Runtime: error while program is running after being compiled**  
-**Semantic: grammatically correct text that does not make sense**  
+14. What is fastest part of the memory in the memory hierarchy of modern computers?  
+**Register memory**   
 
-15. Suppose you write a program that has memory leak. What type of programming error are you dealing with?  
-**A resource leak when a program does not release unneeded memory**   
+15. What is typically the smallest memory unit in the memory hierarchy of modern computers?  
+**Bit or memory tape**  
 
-16. Consider the following chessboard.  
+16. How much faster is the access to the register memory compared to RAM in modern computers?  
+
+
+17. How much faster is the access to the RAM compared to typical SSD hard drives in modern computers?  
+
+
+18. How much faster is the access to the RAM compared to typical HDD hard drives in modern computers?  
+
+
+19. What are the primary roles of transistors in computers?  
+**They are switches that let current through and act as an on or off button**
+
+20. We know that more transistors mean faster computers.  
+Then, why cannot we add more transistors to computers to make them faster?  
+
+
+21. What are the three tasks accomplished within a CPU cycle?  
+**Fetch, decode, execute**  
+
+22. Can a powerful computer with more CPU cycles be slower than a computer with less CPU cycles? Why or How?  
+
+
+23. What is the bottleneck of speed in modern computers? CPU clocks or memory access? Why?  
+
+
+24. What is the difference between the Dennard Scaling, MOSFET scaling, and Moore’s law?  
+
+
+25. Consider the following chessboard.    
 Suppose I ask you to put a single rice grain in the first square.  
 Then I ask you to put incrementally one more grain in each new square than the previous one.  
 How many grains would you need to put in the last (64th) square?  
@@ -72,18 +98,7 @@ How many grains overall would you need to fill all chessboard squares incrementa
 A pound of rice is roughly 7000 grains. How many pounds of rice would you need for this task.  
 **0.297**   
 
-17. Consider the following chessboard.   
-Suppose I ask you to put a single rice grain in the first square.  
-Then I ask you to put incrementally one more grain in each new square than the previous one:  
-1, 2, 3, 4, 5, …  
-How many grains would you need to put in the last (64th) square?  
-**64**  
-How many grains overall would you need to fill all chessboard squares incrementally as described above?  
-**2080**  
-A pound of rice is roughly 7000 grains. How many pounds of rice would you need for this task?    
-**0.297**  
-
-18. Consider the following chessboard.  
+26. Consider the following chessboard.  
 Suppose I ask you to put a single rice grain in the first square.  
 Then I ask you to put in each subsequent square twice more than the previous square grains:  
 1, 2, 4, 8, 16, …  
@@ -96,14 +111,10 @@ A pound of rice is roughly 7000 grains. How many pounds of rice would you need f
 The current annual world production of rice is roughly 2×1012=2,000,000,000,000 lbs. How many years will it take to produce the required amount of rice grains to place on this chessboard in this fashion?      
 **9223372.04**  
 
-19. What are the three fundamental components of a Turing-complete language?    
-**A finite control, one tape, moving read/write head**  
+27. What are the three fundamental components of a Turing-complete language?    
+**A finite control, one tape, moving read/write head**     
 
-20. Consider the following Bash script.  
-Identify the programmatic errors and their kinds (syntax, runtime, semantic) in this script.  
-Rewrite this script with the help of Linux cheatsheet in the lectures so that it does what the comments state.    
-
-21. Extra credit: How would you distinguish exponential behavior vs. power-law behavior (function) in a 2-dimensional plot? (Hint: Recall our discussion of the ENAIC project and the relative frequency of keywords such as “computer” in our programming.)  
+28. Extra credit: How would you distinguish exponential behavior vs. power-law behavior (function) in a 2-dimensional plot? (Hint: Recall our discussion of the ENAIC project and the relative frequency of keywords such as “computer” in our programming.)  
 **Exponential curve: a line only when x-axis is plotted on log scale  
 Power-law curve: a line only when the x-axis and y-axis are plotted on log scale**  
 
