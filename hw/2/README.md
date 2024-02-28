@@ -1,7 +1,7 @@
 1. Consider this programming history chart, in which several programming language nodes are missing.  
 These languages are the following: lisp, basic, Algol 58, C, FORTRAN, Fortran 90, Python, C++, C#, Java, JavaScript, sh.  
 Download the above PDF, add these languages to the right node in this fillable PDF file, save the file and submit it along with your answers to other questions.  
-[**PDF**](hw/progLangChartPuzzle.pdf)    
+[**PDF**](hw/progLangChartPuzzle.pdf)     
 Sort the above languages chronologically and write them here.  
 **Fortran, Lisp, Algol 58, Basic, C, C++, sh, Fortran 90, Python, Java, Javascript, C#**    
 Write down the decade during which these languages were developed.   
