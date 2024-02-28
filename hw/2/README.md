@@ -64,20 +64,20 @@ Python: 1990s**
 **Bit or memory tape or microseconds or milliseconds**  
 
 16. How much faster is the access to the register memory compared to RAM in modern computers?  
-**seconds
+**
 
 17. How much faster is the access to the RAM compared to typical SSD hard drives in modern computers?  
-**seconds
+
 
 18. How much faster is the access to the RAM compared to typical HDD hard drives in modern computers?  
-**seconds
+
 
 19. What are the primary roles of transistors in computers?  
 **They are switches that let current through and act as an on or off button**
 
 20. We know that more transistors mean faster computers.  
 Then, why cannot we add more transistors to computers to make them faster?  
-**
+**More transistors will make it harder to work**  
 
 21. What are the three tasks accomplished within a CPU cycle?  
 **Fetch, decode, execute**  
