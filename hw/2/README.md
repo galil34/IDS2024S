@@ -64,13 +64,13 @@ Python: 1990s**
 **Bit or memory tape or microseconds or milliseconds**  
 
 16. How much faster is the access to the register memory compared to RAM in modern computers?  
-**
+**4x magnitude**
 
 17. How much faster is the access to the RAM compared to typical SSD hard drives in modern computers?  
-
+**8x faster**
 
 18. How much faster is the access to the RAM compared to typical HDD hard drives in modern computers?  
-
+**20-100x faster**
 
 19. What are the primary roles of transistors in computers?  
 **They are switches that let current through and act as an on or off button**
