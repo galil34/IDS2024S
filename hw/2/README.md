@@ -27,7 +27,7 @@ Write down the decade during which these languages were developed.
 8. (A) Name the oldest high-level programming language that is still in active daily use.  
 **Fortran**  
    (B) Approximately how many decades is it old? (The decade it was created is also an acceptable answer)    
-**1957**
+**1950s**
 
 9. (A) Name a second-generation programming language.   
 **Assembly**  
@@ -58,35 +58,35 @@ Python: 1990s**
 **Register memory**   
 
 15. What is typically the smallest memory unit in the memory hierarchy of modern computers?  
-**Bit or memory tape**  
+**Bit or memory tape or microseconds or milliseconds**  
 
 16. How much faster is the access to the register memory compared to RAM in modern computers?  
-
+**seconds
 
 17. How much faster is the access to the RAM compared to typical SSD hard drives in modern computers?  
-
+**seconds
 
 18. How much faster is the access to the RAM compared to typical HDD hard drives in modern computers?  
-
+**seconds
 
 19. What are the primary roles of transistors in computers?  
 **They are switches that let current through and act as an on or off button**
 
 20. We know that more transistors mean faster computers.  
 Then, why cannot we add more transistors to computers to make them faster?  
-
+**
 
 21. What are the three tasks accomplished within a CPU cycle?  
 **Fetch, decode, execute**  
 
 22. Can a powerful computer with more CPU cycles be slower than a computer with less CPU cycles? Why or How?  
-
+**Yes because they became so small it started to affect the movement of electrons in parts of the circuit and caused unnecessary heating and bit flipping**
 
 23. What is the bottleneck of speed in modern computers? CPU clocks or memory access? Why?  
-
+**Memory access because the development of smaller transistors made CPUs increasingly faster than the typical memory access speed of the time**
 
 24. What is the difference between the Dennard Scaling, MOSFET scaling, and Moore’s law?  
-
+**Dennard Scaling uses smaller transistors, Moore's law uses more transistors, MOSFET scaling reduces the parameters according to the transistors** 
 
 25. Consider the following chessboard.    
 Suppose I ask you to put a single rice grain in the first square.  
