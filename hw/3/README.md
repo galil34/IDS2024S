@@ -3,26 +3,24 @@
 2. Name and briefly describe three different applications of Computational and Data Sciences.  
 
 3. Name the two types of scientific reasoning.  
-**Inductive and Deductive**
-4. Policeman, jewelry, and burglar.  
+**Inductive and Deductive**  
+4. Provide an example that shoes logical implication does not necessarily imply physical causation.
+   
+5. Policeman, jewelry, and burglar.  
 
-5. Logical Implication.  
+6. Logical Implication.  
 
-6. Logical product denial.  
+7. Logical product denial.  
 
-7. Logic functions with 1 input.  
+8. Logic functions with 1 input.  
 
-8. Logic functions with 2 inputs.  
+9. Logic functions with 2 inputs.  
 
-9. Logic functions in terms of logic functions.  
+10. Logic functions in terms of logic functions.  
 
-10. The fundamental logical operators.  
+11. The fundamental logical operators.  
 
-11. Probability Theory: correspondence with commonsense.  
-
-12. The fundamental desiderata of Probability Theory.  
-
-13. Consider the following series of questions:  
+12. Consider the following series of questions:  
 a. What is the tiniest unit of information?       
 Hint: This unit also represents the tiniest bit of information in computers.   
 **A Bit**    
