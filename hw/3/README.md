@@ -1,11 +1,13 @@
 1. Name the three pillars of Science.   
-**Experiment, Theory, Simulation**  
+**Experiment, Theory, Computational**  
 2. Name and briefly describe three different applications of Computational and Data Sciences.  
-
+**Predictive computing:   
+Numerical simulation:  
+Data-driven discovery via machine:**     
 3. Name the two types of scientific reasoning.  
-**Inductive and Deductive**  
-4. Provide an example that shoes logical implication does not necessarily imply physical causation.
-   
+**Plausible(Inductive) and Deductive**  
+4. Provide an example that shows logical implication does not necessarily imply physical causation.  
+**It's raining, therefore it's cloudy.**   
 5. Policeman, jewelry, and burglar.  
 
 6. Logical Implication.  
