@@ -9,15 +9,15 @@ Data-driven discovery via machine:**
 4. Provide an example that shows logical implication does not necessarily imply physical causation.  
 **It's raining, therefore it's cloudy.**   
 5. Policeman, jewelry, and burglar.  
-
+**If the burglar alarm rings and a gentleman in a mask walks out with a bag full of jewlery, then the policeman doesn't hesitate in deciding the gentleman is dishonest.**  
 6. Logical Implication.  
-
+Here is the image  
 7. Logical product denial.  
-
+Here is the imgage  
 8. Logic functions with 1 input.  
-
+Here is the image  
 9. Logic functions with 2 inputs.  
-
+Here is the imgae   
 10. Logic functions in terms of logic functions.  
 
 11. The fundamental logical operators.  
