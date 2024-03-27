@@ -6,7 +6,7 @@ Scenario: forward problem calibration and validation**
 **Experiment, Theory, Computation**   
 3. Describe three different major applications of the third pillar of science with respect to the first two.
 (Hint: Recall the discussions we had early in the semester during the first lecture series. Where and how could the third pillar replace the other pillars?)
-****
+**predictive,**
 4. Name the two different categories of logical reasoning and provide and example of each class.   
 **Deductive: If it is cloudy, then it is raining   
 Plausible: The sun sets at 8 pm, the sky will be dark**   
@@ -26,7 +26,7 @@ Plausible: The sun sets at 8 pm, the sky will be dark**
 11. Recall the Boolean algebra’s fundamental identities from our lecture notes. Show that,  
 ![IMG_6418](https://github.com/galil34/IDS2024S/assets/157654727/eb6cd68a-7e75-448d-bd41-5f005bd71867)    
 12. Show, via Venn diagrams, that   
-
+![IMG_6419](https://github.com/galil34/IDS2024S/assets/157654727/773a7c2d-7c81-46d1-81f2-8b9c27304b83)   
 13. Show, via Venn diagram or truth table, that    
 
 14. NAND equivalence.  
