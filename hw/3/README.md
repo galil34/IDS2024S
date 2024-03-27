@@ -39,4 +39,5 @@ Obviously, we cannot represent much information with it. So, our remedy is to pu
 1. How many different things can we assign to (or represent with) a collection of 1 such boxes? **2**   
 2. How many different things can we assign to (or represent with) a collection of 2 such boxes? **4**
 3. How many different things can we assign to (or represent with) a collection of 3 such boxes? **8**  
-Hint: Draw binary trees as we described in class to justify your answers  
+Hint: Draw binary trees as we described in class to justify your answers
+![IMG_6416](https://github.com/galil34/IDS2024S/assets/157654727/64b4d6ca-ce0a-4103-aa84-b4c681f9cbb3)   
