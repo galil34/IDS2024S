@@ -13,7 +13,7 @@ Data-driven discovery via machine:**
 6. Logical Implication.  
 Here is the image  
 7. Logical product denial.  
-Here is the imgage  
+![IMG_0478](https://github.com/galil34/IDS2024S/assets/157654727/180457ea-892a-4089-a156-fcee1aa73fbf)   
 8. Logic functions with 1 input.  
 Here is the image  
 9. Logic functions with 2 inputs.  
