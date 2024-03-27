@@ -17,7 +17,7 @@ Data-driven discovery via machine:a combination of historical data and computati
 8. Logic functions with 1 input.  
 ![IMG_0480](https://github.com/galil34/IDS2024S/assets/157654727/12e91ac4-f1a0-457b-8c43-3cf5fa317146)    
 9. Logic functions with 2 inputs.  
-![IMG_0481](https://github.com/galil34/IDS2024S/assets/157654727/99aa39cd-2463-40f1-b121-555688697d06)    
+![IMG_0484](https://github.com/galil34/IDS2024S/assets/157654727/a57a2a1f-5785-4b42-bbea-53d635a11c42)       
 10. Logic functions in terms of logic functions.  
 ![IMG_0482](https://github.com/galil34/IDS2024S/assets/157654727/1ca0994e-4706-44d5-b62d-4f265f9ecbf3)     
 11. The fundamental logical operators.  
