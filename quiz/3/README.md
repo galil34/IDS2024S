@@ -28,7 +28,7 @@ Plausible: The sun sets at 8 pm, the sky will be dark**
 12. Show, via Venn diagrams, that   
 ![IMG_6419](https://github.com/galil34/IDS2024S/assets/157654727/773a7c2d-7c81-46d1-81f2-8b9c27304b83)   
 13. Show, via Venn diagram or truth table, that    
-
+![IMG_6420](https://github.com/galil34/IDS2024S/assets/157654727/49710fb8-ed55-464b-a2c6-294acd018253)  
 14. NAND equivalence.  
 ![IMG_6415](https://github.com/galil34/IDS2024S/assets/157654727/3cc88e8b-a5ed-40c1-baca-35ed7aaec52c)       
 15. Logic NAND and NOR.  
