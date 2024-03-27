@@ -19,7 +19,7 @@ Here is the image
 9. Logic functions with 2 inputs.  
 ![IMG_0481](https://github.com/galil34/IDS2024S/assets/157654727/99aa39cd-2463-40f1-b121-555688697d06)    
 10. Logic functions in terms of logic functions.  
-
+![IMG_0482](https://github.com/galil34/IDS2024S/assets/157654727/1ca0994e-4706-44d5-b62d-4f265f9ecbf3)     
 11. The fundamental logical operators.  
 
 12. Consider the following series of questions:  
