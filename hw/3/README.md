@@ -1,9 +1,9 @@
 1. Name the three pillars of Science.   
 **Experiment, Theory, Computational**  
 2. Name and briefly describe three different applications of Computational and Data Sciences.  
-**Predictive computing:   
-Numerical simulation:  
-Data-driven discovery via machine:**     
+**Predictive computing:data anaylsis to figure out what happens next       
+Numerical simulation:computer caulations in a program    
+Data-driven discovery via machine:a combination of historical data and computation to find trends**     
 3. Name the two types of scientific reasoning.  
 **Plausible(Inductive) and Deductive**  
 4. Provide an example that shows logical implication does not necessarily imply physical causation.  
@@ -17,7 +17,7 @@ Here is the image
 8. Logic functions with 1 input.  
 ![IMG_0480](https://github.com/galil34/IDS2024S/assets/157654727/12e91ac4-f1a0-457b-8c43-3cf5fa317146)    
 9. Logic functions with 2 inputs.  
-Here is the imgae   
+![IMG_0481](https://github.com/galil34/IDS2024S/assets/157654727/99aa39cd-2463-40f1-b121-555688697d06)    
 10. Logic functions in terms of logic functions.  
 
 11. The fundamental logical operators.  
