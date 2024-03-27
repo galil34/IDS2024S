@@ -24,10 +24,10 @@ Plausible: The sun sets at 8 pm, the sky will be dark**
 (Hint. Think about the meaning of logical implication A⇒B: If A is true, then B must be true. If A is false, then B can be either true or false. What configuration of A and B circles in a Venn diagram would correspond to the above statement for logical implication? Recall that when you are inside an object (circle) in a Venn diagram, it means the proposition corresponding to that object is true. When you are outside, the proposition is false.)  
 ![IMG_6417](https://github.com/galil34/IDS2024S/assets/157654727/5860f416-4ff6-48be-8bf8-f39432f6ca68)    
 11. Recall the Boolean algebra’s fundamental identities from our lecture notes. Show that,  
+![IMG_6418](https://github.com/galil34/IDS2024S/assets/157654727/eb6cd68a-7e75-448d-bd41-5f005bd71867)    
+12. Show, via Venn diagrams, that   
 
-12. Show, via Venn diagrams, that  
-
-13. Show, via Venn diagram or truth table, that   
+13. Show, via Venn diagram or truth table, that    
 
 14. NAND equivalence.  
 
