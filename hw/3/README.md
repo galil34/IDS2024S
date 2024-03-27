@@ -15,7 +15,7 @@ Here is the image
 7. Logical product denial.  
 ![IMG_0478](https://github.com/galil34/IDS2024S/assets/157654727/180457ea-892a-4089-a156-fcee1aa73fbf)   
 8. Logic functions with 1 input.  
-Here is the image  
+![IMG_0480](https://github.com/galil34/IDS2024S/assets/157654727/12e91ac4-f1a0-457b-8c43-3cf5fa317146)    
 9. Logic functions with 2 inputs.  
 Here is the imgae   
 10. Logic functions in terms of logic functions.  
