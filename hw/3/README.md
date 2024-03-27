@@ -11,7 +11,7 @@ Data-driven discovery via machine:a combination of historical data and computati
 5. Policeman, jewelry, and burglar.  
 **If the burglar alarm rings and a gentleman in a mask walks out with a bag full of jewlery, then the policeman doesn't hesitate in deciding the gentleman is dishonest.**  
 6. Logical Implication.  
-Here is the image  
+![IMG_6414](https://github.com/galil34/IDS2024S/assets/157654727/5886f564-55d8-4d45-9025-e9e975dfaaed)      
 7. Logical product denial.  
 ![IMG_0478](https://github.com/galil34/IDS2024S/assets/157654727/180457ea-892a-4089-a156-fcee1aa73fbf)   
 8. Logic functions with 1 input.  
