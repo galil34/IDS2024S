@@ -6,7 +6,7 @@ Scenario: forward problem calibration and validation**
 **Experiment, Theory, Computation**   
 3. Describe three different major applications of the third pillar of science with respect to the first two.
 (Hint: Recall the discussions we had early in the semester during the first lecture series. Where and how could the third pillar replace the other pillars?)
-**predictive,**
+**predictive, numerical, data-driven**   
 4. Name the two different categories of logical reasoning and provide and example of each class.   
 **Deductive: If it is cloudy, then it is raining   
 Plausible: The sun sets at 8 pm, the sky will be dark**   
