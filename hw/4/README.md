@@ -4,5 +4,5 @@
 4.   h
 5.   k
 6.   ![IMG_6890](https://github.com/galil34/IDS2024S/assets/157654727/9c7c5d18-da08-4998-852a-5fc17d7cefb2)    
-7.   6
+7.   Degrees of plausibility are represented by real numbers, qualitative correspondence with common sense, consistency 
    
