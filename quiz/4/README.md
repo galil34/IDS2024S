@@ -15,7 +15,8 @@
 8. NAND Equivalence  
 
 9. Logic NAND and NOR    
-![IMG_6886](https://github.com/galil34/IDS2024S/assets/157654727/b6eaca70-f67b-4648-b86e-1ded04083b81)   
-10. Logical Implication in terms of logic functions  
-
+![IMG_6886](https://github.com/galil34/IDS2024S/assets/157654727/b6eaca70-f67b-4648-b86e-1ded04083b81)    
+10. Logical Implication in terms of logic functions    
+![IMG_6898](https://github.com/galil34/IDS2024S/assets/157654727/d70bf598-b86b-4a42-893b-71fa74535336)  
 11. Show via a Venn Diagram or a Truth Table, or explain by a logical argument that (A⇒B) ≡ (B⎯⎯⎯⎯⇒A⎯⎯⎯⎯).  
+![IMG_6897](https://github.com/galil34/IDS2024S/assets/157654727/672015a1-7027-4c45-91c3-27afd9421104)    
