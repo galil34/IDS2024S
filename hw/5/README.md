@@ -31,7 +31,7 @@
 - **Diverging color scale: indicates the deviation of values in one of two directions relative to a neutral midpoint.**       
 - **Accent color scale: effective to higlight specific elements in the data.**       
 12. What is wrong with the following visualization?  
-
+- **The visualization generated negative ages in the distribution.** 
 13. Best visualization coloring.  
 - **Purple-green because 5%-8% of men are colorblind.**
 14. Visualizing and comparing the temperatures of Honolulu and Duluth via Excel.  
