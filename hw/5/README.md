@@ -35,11 +35,11 @@ Ordered/Unordered?
 
 17. Visualizing the average precipitation of the US states vs. sunshine.  
 
-18. The proof of Bayes’ Rule via Venn diagram.  
+18. Better visualizations through axes transformation.  
 
-19. The major schools of thought in Probability Theory.  
+19. The proof of Bayes' Rule via Venn diagram.  
 
-20. Regression: Predicting the global land temperature of Earth in 2050 from the past data: Choosing the best model.  
+20. The major schools of thought in Probability Theory.  
 
 21. Extra Credit: Puzzle: What living creatures do you see? 
 
