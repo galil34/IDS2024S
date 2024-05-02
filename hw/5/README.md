@@ -9,7 +9,7 @@ Qualitative: categorical values**
 5. What is the common name for variables holding qualitative data?  
 **Categorical/Factors**  
 6. Provide examples of ordered and unordered data.  
-**Ordered: 
+**Ordered:   
 Unordered:**  
 8. What are the types of data in the columns of the following table?  
 Quantitative/Qualitative?  
@@ -24,23 +24,25 @@ Ordered/Unordered?
 11. Which one of the following three coordinates are valid and can be used to represent data?  
 
 12. What kind of data set can be best visualized in polar coordinates?  
+**Data of a periodic nature**   
+13. Name four different color scales and explain their most appropriate usage. **Qualitative color scale: distinguish discrete items or groups that do not have an intrinsic order    
+Sequential color scale: indicates which values are larger or smaller than which other ones and how distant two specific values are from each other.   
+Diverging color scale: indicates the deviation of values in one of two directions relative to a neutral midpoint.     
+Accent color scale: effective to higlight specific elements in the data.**     
+15. What is wrong with the following visualization?  
 
-13. Name four different color scales and explain their most appropriate usage.  
+16. Best visualization coloring.  
 
-14. What is wrong with the following visualization?  
+17. Visualizing and comparing the temperatures of Honolulu and Duluth via Excel.  
 
-15. Best visualization coloring.  
+18. Visualizing the average precipitation of the US states vs. sunshine.  
 
-16. Visualizing and comparing the temperatures of Honolulu and Duluth via Excel.  
+19. Better visualizations through axes transformation.  
 
-17. Visualizing the average precipitation of the US states vs. sunshine.  
+20. The proof of Bayes' Rule via Venn diagram.  
 
-18. Better visualizations through axes transformation.  
+21. The major schools of thought in Probability Theory.  
 
-19. The proof of Bayes' Rule via Venn diagram.  
+22. Extra Credit: Puzzle: What living creatures do you see? 
 
-20. The major schools of thought in Probability Theory.  
-
-21. Extra Credit: Puzzle: What living creatures do you see? 
-
-22. Extra Credit: Puzzle: Matchstick Wrong Equation.  
+23. Extra Credit: Puzzle: Matchstick Wrong Equation.  
