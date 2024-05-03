@@ -25,7 +25,7 @@ What is each color-scale good for in Data Science?
 **It can because it has time on the x-axis and temperature on the y-axis. It is also linear**  
 - Download this dataset visualized above.  
 Then, open the file in Excel and compute the average temperature anomaly over all dates available in the file and report the single average value here.   
-
+**0.07**  
 8. Which school(s) of probability theory allow incorporation of expert (prior) knowledge in scientific inference?    
 - **Bayesian probability theory**  
 9. When data is scarce, which school of probability theory is the most useful for scientific inference?  
