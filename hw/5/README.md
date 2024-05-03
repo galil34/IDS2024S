@@ -44,9 +44,9 @@
 15. Visualizing the average precipitation of the US states vs. sunshine.  
 - ![Image 5-2-24 at 11 52 PM](https://github.com/galil34/IDS2024S/assets/157654727/9c219cb9-550e-4a94-a7e3-500ceb081bf3)   
 16. Better visualizations through axes transformation.  
-- **The approximate population of the 1000th most populous city in Texas is illegible**
-- **Based on the axis-transformed plot, the approximate population of the 1000th most populous city in Texas is 1,000**
-- 
+- **The approximate population of the 1000th most populous city in Texas is illegible**  
+- **Based on the axis-transformed plot, the approximate population of the 1000th most populous city in Texas is 1,000**  
+- ![Screenshot 2024-05-03 at 12 13 01 AM](https://github.com/galil34/IDS2024S/assets/157654727/23af3754-e1ad-4eee-8b7e-7d8621c20c24)  
 17. The proof of Bayes' Rule via Venn diagram.  
 
 18. The major schools of thought in Probability Theory.  
