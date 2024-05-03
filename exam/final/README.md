@@ -35,7 +35,7 @@ Then, open the file in Excel and compute the average temperature anomaly over al
 11. A wrong visualization.   
 - **The visualization generated negative ages in the distribution.**  
 12. Why is everything represented by integers in computers?   
-- **
+- **Information is stored in a bit that has 0 and 1 for the binary code**  
 13. Name an ancestor programming language of C.  
 - **B**  
 14. Name the first high-level programming language in computer history.  
@@ -44,6 +44,8 @@ Then, open the file in Excel and compute the average temperature anomaly over al
 - ** 
 16. Show via a Venn Diagram or a Truth Table, or explain by a logical argument that,  
 How does A look relative to B? Does the same also hold for B⎯⎯⎯⎯ relative to A⎯⎯⎯⎯?  
+ ![IMG_6897](https://github.com/galil34/IDS2024S/assets/157654727/672015a1-7027-4c45-91c3-27afd9421104)  
+**A looks the same relative to B and the same holds for B---- and A-----. Both exist in the same way and together.**  
 
 17. Name the two different categories of logical reasoning and provide and example of each class.  
   
