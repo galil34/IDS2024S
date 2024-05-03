@@ -42,7 +42,7 @@
 - **Duluth: y=0.0001x+39.949 R2=0.0002**    
 - **Honolulu: y=7E-05x+77.049 R2=0.0031**  
 15. Visualizing the average precipitation of the US states vs. sunshine.  
-
+- ![Image 5-2-24 at 11 52 PM](https://github.com/galil34/IDS2024S/assets/157654727/9c219cb9-550e-4a94-a7e3-500ceb081bf3)   
 16. Better visualizations through axes transformation.  
 
 17. The proof of Bayes' Rule via Venn diagram.  
