@@ -3,15 +3,15 @@
 - **Color, shape, and size are a few aesthetics**  
 2. Name the two major classes of aesthetics.  
 - **Continuous and Discrete**  
-3. What is the difference between factors and levels?  
-- **
+3. What is the difference between factors and levels?   
+- **Variables holding qualitative data are factors, and the different categories are called levels.**  
 4. Name the two major types of data and provide an example for each category.  
 - **Quantitative: numerical values, real numbers**  
 - **Qualitative: categorical values, months**  
 5. What is the common name for variables holding data?  
-- **  
+- **Factors**    
 6. Provide examples of ordered and unordered data.  
-- **Ordered: rankings like good, fair, poor**  
+- **Ordered: ranking like good, fair, poor**  
 - **Unordered: descriptions like dog, cat, fish**  
 7. What kind of data set can be best visualized in polar coordinates?  
 - **Data of a periodic nature**  
@@ -21,12 +21,12 @@
 - **Diverging color scale: indicates the deviation of values in one of the two directions relative to a neutral midpoint.**  
 - **Accent color scale: effective to highlight specific elements in the data.**  
 9. Professional Data Scientists tend to avoid 3D plots in their visualizations. Why?  
-- **   
+- **The perspective makes it difficult to read and there is some distortion**  
 10. Recall our class discussions on the kinds of data, for example, numerical vs. categorical.
 Describe an example dataset that could be classified as either numerical or categorical, depending on how it is represented.  
-- **
+- **Discrete data**  
 11. Is color a categorical/unordered or quantitative/ordered aesthetics?  
-
+- **Categorical/unordered**  
 12. Which one of the following three coordinates are valid and can be used to represent data?   
 - **e2 & e1**   
 13. Best visualization coloring.     
