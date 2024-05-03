@@ -36,6 +36,7 @@
 - **Purple-green because 5%-8% of men are colorblind.**
 14. Visualizing and comparing the temperatures of Honolulu and Duluth via Excel.  
 - ![Screenshot 2024-05-02 at 10 59 02 PM](https://github.com/galil34/IDS2024S/assets/157654727/6fb2164f-c89c-4d6b-ad84-9176f4e3f5d1)   
+- ![Screenshot 2024-05-02 at 11 00 48 PM](https://github.com/galil34/IDS2024S/assets/157654727/435fa6eb-590b-4f8f-b27d-f4db589571d9)   
 - **Honolulu is hotter**   
 - **Honolulu has less fluctuating temperatures**   
 - **Duluth: y=0.0001x+39.949 R2=0.0002**    
