@@ -59,3 +59,4 @@ How does A look relative to B? Does the same also hold for B⎯⎯⎯⎯ relativ
 S=3+6+9+…+93+96+99 .
 What is the value of S? Explain your novel strategy to get your answer.
 (Hint: There are 33 numbers in the summation.)
+- **1683**
