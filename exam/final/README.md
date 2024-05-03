@@ -48,9 +48,10 @@ How does A look relative to B? Does the same also hold for B⎯⎯⎯⎯ relativ
 **A looks the same relative to B and the same holds for B---- and A-----. Both exist in the same way and together.**  
 
 17. Name the two different categories of logical reasoning and provide and example of each class.  
-  
+- **Plausible: it will start to rain by 10 am at the latest, the sky will become cloudy before 10 am.**  
+- **Deductive: if it is not cloudy, it did not rain.**   
 18. What does it mean if two Boolean propositions are equal?  
-
+- **They will body be true and have similar truth tables**  
 19. OMITTED    
 20. Can we represent all real numbers in computers?  
 - **No**  
