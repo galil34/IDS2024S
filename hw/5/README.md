@@ -48,7 +48,7 @@
 - **Based on the axis-transformed plot, the approximate population of the 1000th most populous city in Texas is 1,000**  
 - ![Screenshot 2024-05-03 at 12 13 01 AM](https://github.com/galil34/IDS2024S/assets/157654727/23af3754-e1ad-4eee-8b7e-7d8621c20c24)  
 17. The proof of Bayes' Rule via Venn diagram.  
-
+- ![IMG_7567](https://github.com/galil34/IDS2024S/assets/157654727/f3727e26-a105-4ab0-bac0-ea0da24b71fe)   
 18. The major schools of thought in Probability Theory.  
 - **Classical, Bayesian, Frequentist, Propensity**  
 19. Extra Credit: Puzzle: What living creatures do you see?  
