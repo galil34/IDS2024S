@@ -35,7 +35,10 @@
 13. Best visualization coloring.  
 - **Purple-green because 5%-8% of men are colorblind.**
 14. Visualizing and comparing the temperatures of Honolulu and Duluth via Excel.  
-
+- **Honolulu is hotter**   
+- **Honolulu has less fluctuating temperatures**   
+- **Duluth: y=0.0001x+39.949 R2=0.0002**    
+- **Honolulu: y=7E-05x+77.049 R2=0.0031**  
 15. Visualizing the average precipitation of the US states vs. sunshine.  
 
 16. Better visualizations through axes transformation.  
