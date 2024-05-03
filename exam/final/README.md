@@ -16,13 +16,13 @@ What is each color-scale good for in Data Science?
 - **No, if it is cloudy then it is not raining.**  
 7. Suppose we have fit the following red-line to the following blue dataset representing the global temperature increase of Earth over the past centuries.  
 - Is this visually a good fit in your opinion? Why?  
-
+**I believe the data could have been more evenly disributed to become visually appealing.** 
 - What type of uncertainty dominates this dataset in the early years (before 1850)?  
-
+**Lack of documentation and proper tools**  
 - Is the trend seen in this dataset an example of positive correlation or negative correlation?  
-
+**Positive**  
 - Could this dataset be classified as timeseries data? Why?  
-
+**It can because it has time on the x-axis and temperature on the y-axis. It is also linear**  
 - Download this dataset visualized above.  
 Then, open the file in Excel and compute the average temperature anomaly over all dates available in the file and report the single average value here.   
 
