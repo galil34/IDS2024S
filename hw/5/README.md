@@ -9,20 +9,20 @@
 4. What is the common name for variables holding qualitative data?  
 - **Categorical/Factors**  
 5. Provide examples of ordered and unordered data.  
-- **Ordered:**   
-- **Unordered:**  
+- **Ordered: good, fair, poor**   
+- **Unordered: dog, cat, fish**  
 6. What are the types of data in the columns of the following table?  
-- **Month:**  
-- **Day:**  
-- **Location:**  
-- **Station ID:**  
-- **Temperature:**  
+- **Month: qualitative/categorical/discrete/ordered**  
+- **Day: qualitative/categorical/discrete/ordered**  
+- **Location: qualitative/categorical/discrete/unordered**  
+- **Station ID: qualitative/categorical/continuous/unordered**  
+- **Temperature: quantitative/numerical/continuous/unordered**  
 7. What kinds of axes in a plot should be represented with the same units and grid size?  
 - **x and y axis in a coordinate system**  
 8. Describe an example scenario in which transforming the axes of the plot results in better visualizations.   
-
+- **Log-transformation can be used to plot data containing numbers at different magnitudes.**  
 9. Which one of the following three coordinates are valid and can be used to represent data?  
-
+- **e2 & e1**  
 10. What kind of data set can be best visualized in polar coordinates?  
 - **Data of a periodic nature**   
 11. Name four different color scales and explain their most appropriate usage.
