@@ -46,6 +46,6 @@ Describe an example dataset that could be classified as either numerical or cate
 17. An ugly visualization.
 - **The x-axis labels need to fit the bars on the graph**   
 18. An Excel Bar plot.  
-(Hint. Create a column of salary data in an Excel file. Go to the Insert tab in the Excel file and look for )
+(Hint. Create a column of salary data in an Excel file. Go to the Insert tab in the Excel file and look for)  
 - **  
 19. This graph displays the global land temperature anomaly of earth over the past 300 years. The vertical axis basically tells use how hot Earth has been in a given year compared to the average temperature during 1951-1980? Just by looking a this graph, do you think if the temperature of Earth will increase or decrease in the following decades? Approximately, how much hotter or cooler do you think Earth will be in 2050 with respect to the average temperature during 1951-1980 (the zero anomaly temperature)? Express your answer in units of Celsius.  
